@@ -1,0 +1,7 @@
+
+				Classical	       Quantum
+
+               Deutsch	            2	O(1)	         1 O(1)	
+	       Deutsch-Jozsa	    (2^n/2)+1 O(2^n)     1 O(1)                     --> exponential speedup
+	       Grover               n/2+1 O(n)		 Pi*sqrt(n)/4	O(sqrt(n))  --> quadratic speedup
+	       Shor		  exp(...sqrt(n)...)	 polynomial		    --> exponential speedup	
